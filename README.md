@@ -6,3 +6,5 @@ https://www.designerscarf.us/collections/pre-owned-gucci
 https://www.designerscarf.us/collections/ysl
 # ysl scarf 
 https://www.designerscarf.us/collections/pre-owned-yves-saint-laurent-ysl
+# Fendi Scarf
+https://www.designerscarf.us/collections/fendi
